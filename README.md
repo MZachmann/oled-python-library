@@ -1,4 +1,4 @@
- This## oled-python-library
+## oled-python-library
 A simple library to draw pixels and good quality text to those typical oled displays.
 # Simple SSD1306 & SH1106 Python Library
 This library enables pixel set/reset/invert for the two primary small OLED controllers. It also includes high quality character display.
