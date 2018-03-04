@@ -1,9 +1,9 @@
-## oled-python-library
+ This## oled-python-library
 A simple library to draw pixels and good quality text to those typical oled displays.
 # Simple SSD1306 & SH1106 Python Library
 This library enables pixel set/reset/invert for the two primary small OLED controllers. It also includes high quality character display.
 
-This code base only supports **I2C** for the [**Pycom Micropython**](https://pycom.io) implementation. The communication interface is separated, though, so other pythons/comm languages are easy to support.
+This code base only supports **I2C** for the [**Pycom MicroPython**](https://pycom.io) implementation. The communication interface is separated, though, so other pythons/comm languages are easy to support. This is also tested / working as-is on the awesome [**Loboris MicroPython fork.**](https://github.com/loboris/MicroPython_ESP32_psRAM_LoBo)
 ## Simple example
 
 ```python
